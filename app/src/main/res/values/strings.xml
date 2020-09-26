@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Med App</string>
+    <string name="texto_clinico_geral">Um Clínico Geral tem um conhecimento aprofundado dos órgãos, sistemas e aparelhos do corpo humano, faz diagnósticos, pede exames, prescreve medicamentos e realiza cirurgias.</string>
+    <string name="texto_odonto">O dentista realiza tratamentos estéticos e também intervenções relacionada à saúde bucal.\nEle está apto a identificar doenças através de exames clínicos, radiográficos e laboratoriais e, a partir do diagnóstico, propor o tratamento mais adequado e receitar medicamentos.</string>
+    <string name="texto_cardio">Cardiologia se ocupa do diagnóstico e tratamento das doenças que acometem o coração bem como os outros componentes do sistema circulatório.</string>
+    <string name="texto_ofta">Oftalmologista é o médico formado responsável pelo diagnóstico e tratamento de doenças como ceratocone, catarata, glaucoma, prescrição de lentes, etc.</string>
+    <string name="texto_neuro">A Neurologia é a especialidade que se dedica ao diagnóstico e tratamento das doenças que afetam o sistema nervoso (cérebro, tronco encefálico, cerebelo, medula espinhal e nervos) e os componentes da junção neuromuscular (nervo e músculos)</string>
+</resources>
