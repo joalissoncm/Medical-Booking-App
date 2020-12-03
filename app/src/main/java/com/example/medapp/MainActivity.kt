@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val imgBtn_cgeral = findViewById<ImageButton>(R.id.imgBtn_cgeral)
+        val imgBtn_cgeral = findViewById<ImageButton>(R.id.btn_cgeral)
 
         imgBtn_cgeral.setOnClickListener {
             val intent = Intent(this, ActivityCGeral::class.java)
@@ -50,5 +50,12 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val btn_exames = findViewById<ImageButton>(R.id.btn_exames)
+
+        btn_exames.setOnClickListener {
+            val intent = Intent(this, Activity_Exames::class.java)
+
+            startActivity(intent)
+        }
     }
 }
